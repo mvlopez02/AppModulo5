@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209619240606",
+    "project_id": "deliveryfire-app",
+    "storage_bucket": "deliveryfire-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209619240606:android:6e44c8a0af6a7e158e5d8f",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209619240606-882qlja51ebqjc63pm8ctgbr383icd49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxa59NUGWC7PRG0WAxHPzrNA8IzoOEfGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209619240606-882qlja51ebqjc63pm8ctgbr383icd49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
